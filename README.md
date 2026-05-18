@@ -21,3 +21,11 @@ This project demonstrates:
 - Ingredients lists
 - Step-by-step cooking instructions
 - Navigation back to the homepage
+
+## Attributions
+
+### Paneer tikka masala 
+- Image source : https://commons.wikimedia.org/wiki/File:Popular_Indian_dish,_Paneer_Butter_Masala.jpg 
+- Author : Akash128
+- License :  Creative Commons Attribution-Share Alike 4.0 International license
+
