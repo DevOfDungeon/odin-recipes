@@ -29,3 +29,7 @@ This project demonstrates:
 - Author : Akash128
 - License :  Creative Commons Attribution-Share Alike 4.0 International license
 
+### Samosa
+- Image Source : https://commons.wikimedia.org/wiki/File:Samosa-and-Chatni.jpg
+- Author : Kaushalspeed
+- License :  Creative Commons Attribution-Share Alike 4.0 International license
